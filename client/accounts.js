@@ -6,3 +6,5 @@
 Accounts.ui.config({
     requestPermissions: {}
 });
+
+accountsUIBootstrap3.setLanguage('pt-BR');
